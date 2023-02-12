@@ -36,6 +36,7 @@ Overall, "Blitzscaling" is a valuable resource for entrepreneurs and business le
 9. Galaxy: The final stage when a company has become a truly transformative force, capable of shaping the future of its industry and the world at large.
 
 # Key Stakeholders & relationship development factors
+
 | Stage | Key Stakeholders | Do's | Don'ts |
 |-------|-----------------|------|--------|
 | Family | Founders, early employees, investors | * Be transparent and honest with stakeholders * Focus on building the product and finding early customers | * Overpromise and underdeliver * Ignore stakeholder feedback |
@@ -50,6 +51,7 @@ Overall, "Blitzscaling" is a valuable resource for entrepreneurs and business le
 
 
 # Challenges and Opportunites at each stage
+
 | Stage | Challenges | Opportunities |
 |-------|------------|---------------|
 | Family | Creating a viable product | Developing a strong company culture |
@@ -64,6 +66,7 @@ Overall, "Blitzscaling" is a valuable resource for entrepreneurs and business le
 
 
 # Essential steps for Growth
+
 | Stage | Essential Steps for Growth |
 |-------|---------------------------|
 | Family | Build a viable product and establish an initial user base |
@@ -77,6 +80,7 @@ Overall, "Blitzscaling" is a valuable resource for entrepreneurs and business le
 | Galaxy | Use the company's influence to effect positive change in society, shape the future of the industry and the world at large, and prioritize long-term impact over short-term gains |
 
 # Do's and Don'ts for the CEO
+
 | Stage | Do's | Don'ts |
 |-------|------|--------|
 | Family | Focus on building a viable product and establishing an initial user base | Overpromise and underdeliver; neglect stakeholder feedback |
@@ -272,6 +276,7 @@ Note that the switch from a Manager's to a Maker's schedule generally occurs whe
 - Alignment with social and environmental values and impact
 
 # KPIs per Department
+
 | Department            | KPIs                                                        |
 | ---------------------| ------------------------------------------------------------|
 | Marketing             | Conversion rates, customer acquisition costs, ROI on ad spend, social media engagement rates |
