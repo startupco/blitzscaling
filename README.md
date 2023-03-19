@@ -107,61 +107,61 @@ Note that the switch from a Manager's to a Maker's schedule generally occurs whe
 - [ ] Raise seed funding from investors who believe in the company's potential
 
 ## Tribe Stage
-[ ] Iterate quickly based on customer feedback and establish a strong product-market fit
-[ ] Build a user base and establish a beachhead in the market
-[ ] Develop a strong company culture that reflects the values and vision of the founders
-[ ] Hire a team of employees who are passionate about the company's mission and culture
-[ ] Establish an advisory board of experts who can provide guidance and support
+- [ ] Iterate quickly based on customer feedback and establish a strong product-market fit
+- [ ] Build a user base and establish a beachhead in the market
+- [ ] Develop a strong company culture that reflects the values and vision of the founders
+- [ ] Hire a team of employees who are passionate about the company's mission and culture
+- [ ] Establish an advisory board of experts who can provide guidance and support
 
 ## Village Stage
-[ ] Establish formal processes and structures for managing the company's growth
-[ ] Invest in employee training and development to build a strong talent pipeline
-[ ] Hire strategically to fill critical gaps in the company's expertise
-[ ] Establish a performance management system to track employee progress and promote accountability
-[ ] Develop a strong middle management team to oversee day-to-day operations
+- [ ] Establish formal processes and structures for managing the company's growth
+- [ ] Invest in employee training and development to build a strong talent pipeline
+- [ ] Hire strategically to fill critical gaps in the company's expertise
+- [ ] Establish a performance management system to track employee progress and promote accountability
+- [ ] Develop a strong middle management team to oversee day-to-day operations
 
 ## City Stage
-[ ] Maintain a strong company culture and prioritize employee morale and well-being
-[ ] Scale operations and expand market reach through strategic partnerships and acquisitions
-[ ] Invest in talent development and build a strong leadership pipeline
-[ ] Develop a clear and compelling strategic vision for the company's long-term growth
-[ ] Build a strong brand and reputation through effective marketing and public relations
+- [ ] Maintain a strong company culture and prioritize employee morale and well-being
+- [ ] Scale operations and expand market reach through strategic partnerships and acquisitions
+- [ ] Invest in talent development and build a strong leadership pipeline
+- [ ] Develop a clear and compelling strategic vision for the company's long-term growth
+- [ ] Build a strong brand and reputation through effective marketing and public relations
 
 ## Nation Stage
-[ ] Build a strong sales pipeline and expand market reach through strategic partnerships and acquisitions
-[ ] Develop legal and compliance infrastructure to support the company's growth
-[ ] Expand globally to new markets and regions
-[ ] Develop new revenue streams and business units to drive growth
-[ ] Cultivate relationships with industry partners and thought leaders
+- [ ] Build a strong sales pipeline and expand market reach through strategic partnerships and acquisitions
+- [ ] Develop legal and compliance infrastructure to support the company's growth
+- [ ] Expand globally to new markets and regions
+- [ ] Develop new revenue streams and business units to drive growth
+- [ ] Cultivate relationships with industry partners and thought leaders
 
 ## Continent Stage
-[ ] Develop a strong brand and reputation on a global scale
-[ ] Invest in diverse business units and revenue streams to reduce risk and increase growth potential
-[ ] Expand globally to new markets and regions
-[ ] Foster a culture of innovation and risk-taking to drive new product development
-[ ] Leverage the company's scale and resources to effect positive change in society
+- [ ] Develop a strong brand and reputation on a global scale
+- [ ] Invest in diverse business units and revenue streams to reduce risk and increase growth potential
+- [ ] Expand globally to new markets and regions
+- [ ] Foster a culture of innovation and risk-taking to drive new product development
+- [ ] Leverage the company's scale and resources to effect positive change in society
 
 ## Earth Stage
-[ ] Maintain a positive reputation and strong industry relationships through effective public relations and thought leadership
-[ ] Contribute to thought leadership and industry standards to shape the future of the industry and the world at large
-[ ] Prioritize sustainability and ethical practices to minimize the company's impact on the environment and society
-[ ] Partner with external stakeholders, including industry groups and policymakers, to promote positive change
-[ ] Foster a culture of innovation and risk-taking to drive new product development and social impact
+- [ ] Maintain a positive reputation and strong industry relationships through effective public relations and thought leadership
+- [ ] Contribute to thought leadership and industry standards to shape the future of the industry and the world at large
+- [ ] Prioritize sustainability and ethical practices to minimize the company's impact on the environment and society
+- [ ] Partner with external stakeholders, including industry groups and policymakers, to promote positive change
+- [ ] Foster a culture of innovation and risk-taking to drive new product development and social impact
 
 ## Solar System Stage
-[ ] Invest in research and development for new products and technologies to drive industry innovation
-[ ] Collaborate with industry partners to drive innovation and expand the company's reach
-[ ] Prioritize long-term strategy over short-term gains to maximize the company's potential impact
-[ ] Build a strong leadership pipeline to ensure continuity and sustainability over the long term
-[ ] Maintain a culture of innovation and risk-taking to continue driving the company's growth and impact
+- [ ] Invest in research and development for new products and technologies to drive industry innovation
+- [ ] Collaborate with industry partners to drive innovation and expand the company's reach
+- [ ] Prioritize long-term strategy over short-term gains to maximize the company's potential impact
+- [ ] Build a strong leadership pipeline to ensure continuity and sustainability over the long term
+- [ ] Maintain a culture of innovation and risk-taking to continue driving the company's growth and impact
 
 ## Galaxy Stage
-[ ] Use the company's influence and resources to effect positive change in society and the world at large
-[ ] Shape the future of the industry and the world through
-[ ] Prioritize long-term impact over short-term gains to ensure the company's legacy
-[ ] Build a strong culture of innovation and impact, with a focus on promoting social responsibility and positive change
-[ ] Foster a strong leadership pipeline to ensure continuity and sustainability over the long term
-[ ] Partner with external stakeholders to promote and support positive change on a global scale
+- [ ] Use the company's influence and resources to effect positive change in society and the world at large
+- [ ] Shape the future of the industry and the world through
+- [ ] Prioritize long-term impact over short-term gains to ensure the company's legacy
+- [ ] Build a strong culture of innovation and impact, with a focus on promoting social responsibility and positive change
+- [ ] Foster a strong leadership pipeline to ensure continuity and sustainability over the long term
+- [ ] Partner with external stakeholders to promote and support positive change on a global scale
 
 # Employee Numbers at various stages
 For a SaaS and tech startup in the legal industry, the employee numbers at various stages can vary depending on the specific needs and growth trajectory of the company. However, here's a rough breakdown of the employee ranges, considering the specialization of the industry:
