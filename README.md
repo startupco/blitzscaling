@@ -100,11 +100,11 @@ Note that the switch from a Manager's to a Maker's schedule generally occurs whe
 # Checklist for all stages
 
 ## Family Stage
- [ ] Develop a clear and compelling vision for the company
- [ ] Build a minimum viable product and establish an initial user base
- [ ] Establish a company culture that reflects the values and vision of the founders
- [ ] Hire a core team of employees who are passionate about the company's mission
- [ ] Raise seed funding from investors who believe in the company's potential
+- [ ] Develop a clear and compelling vision for the company
+- [ ] Build a minimum viable product and establish an initial user base
+- [ ] Establish a company culture that reflects the values and vision of the founders
+- [ ] Hire a core team of employees who are passionate about the company's mission
+- [ ] Raise seed funding from investors who believe in the company's potential
 
 ## Tribe Stage
 [ ] Iterate quickly based on customer feedback and establish a strong product-market fit
